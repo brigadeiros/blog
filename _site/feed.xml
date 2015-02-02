@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OS Brigadeiros</title>
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://example.com/</link>
+    <description>A website with blog posts, and pages.</description>
+    <pubDate>Mon, 02 Feb 2015 15:25:44 -0200</pubDate>
+    
+      <item>
+        <title>Sao Paulo - the city without water</title>
+        <link>http://example.com/2015/02/01/Now-in-Sao-Paulo.html</link>
+        <guid isPermaLink="true">http://example.com/2015/02/01/Now-in-Sao-Paulo.html</guid>
+        <description>&lt;p&gt;Because of the draught, the water reserves of this city that uses 16.000.000 liters of water &lt;strong&gt;per hour&lt;/strong&gt;, have gotten so low as to make water racioning very likely. This means one day with and the next day without water. Storing a greater quantity of water than we already do, resolves nothing in terms of learning to live with a lower water footprint.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/beats.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Feb 2015 00:00:00 -0200</pubDate>
+      </item>
+    
+      <item>
+        <title>Cordoba</title>
+        <link>http://example.com/2014/11/30/cordoba.html</link>
+        <guid isPermaLink="true">http://example.com/2014/11/30/cordoba.html</guid>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam blanditiis, accusantium expedita aliquid dolores, similique velit eius quo explicabo alias non obcaecati odio quia, quisquam maiores natus. Dolorum dicta, vitae.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor amet reprehenderit dolorem qui esse labore quasi facilis aperiam, veritatis, ad iste est sed quidem non ducimus velit fugit, provident itaque.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate expedita quibusdam blanditiis optio commodi sequi quae incidunt reiciendis qui odio, repellendus quasi excepturi perspiciatis temporibus laboriosam eveniet vitae voluptates velit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae quam provident mollitia hic unde nostrum maxime commodi tempore voluptate doloribus porro iste, libero corrupti ab voluptatum dolorum eaque labore ipsam.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More &lt;a href=&quot;https://www.flickr.com/photos/127774092@N02/sets/72157650498827456/&quot;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt; &lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Nov 2014 00:00:00 -0200</pubDate>
+      </item>
+    
+  </channel>
+</rss>
