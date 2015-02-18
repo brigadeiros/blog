@@ -1,27 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OS Brigadeiros</title>
+    <title>Brigadeiros</title>
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description>A website with blog posts, and pages.</description>
-    <pubDate>Mon, 02 Feb 2015 15:25:44 -0200</pubDate>
+    <pubDate>Wed, 18 Feb 2015 06:53:00 -0200</pubDate>
     
       <item>
-        <title>Sao Paulo - the city without water</title>
-        <link>http://example.com/2015/02/01/Now-in-Sao-Paulo.html</link>
-        <guid isPermaLink="true">http://example.com/2015/02/01/Now-in-Sao-Paulo.html</guid>
-        <description>&lt;p&gt;Because of the draught, the water reserves of this city that uses 16.000.000 liters of water &lt;strong&gt;per hour&lt;/strong&gt;, have gotten so low as to make water racioning very likely. This means one day with and the next day without water. Storing a greater quantity of water than we already do, resolves nothing in terms of learning to live with a lower water footprint.&lt;/p&gt;
+        <title>Working Sao Paulo</title>
+        <link>http://example.com/2015/02/01/Sao-Paulo.html</link>
+        <guid isPermaLink="true">http://example.com/2015/02/01/Sao-Paulo.html</guid>
+        <description>&lt;p&gt;Because of the draught, the water reserves of this city that uses &lt;strong&gt;16.000.000 liters&lt;/strong&gt; of water &lt;strong&gt;per hour&lt;/strong&gt;, have gotten so low as to make water racioning very likely. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/beats.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This means one day with and the next day without water. &lt;/p&gt;
+
+&lt;p&gt;Storing a greater quantity of water than we already do, resolves nothing in terms of learning to live with a lower water footprint.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sao_paulo/beats.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Feb 2015 00:00:00 -0200</pubDate>
       </item>
     
       <item>
+        <title>Viva Floripa!</title>
+        <link>http://example.com/2015/01/27/Floripa.html</link>
+        <guid isPermaLink="true">http://example.com/2015/01/27/Floripa.html</guid>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam blanditiis, accusantium expedita aliquid dolores, similique velit eius quo explicabo alias non obcaecati odio quia, quisquam maiores natus. Dolorum dicta, vitae.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae quam provident mollitia hic unde nostrum maxime commodi tempore voluptate doloribus porro iste, libero corrupti ab voluptatum dolorum eaque labore ipsam.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More &lt;a href=&quot;https://www.flickr.com/photos/127774092@N02/sets/72157650498827456/&quot;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt; &lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Jan 2015 00:00:00 -0200</pubDate>
+      </item>
+    
+      <item>
+        <title>Unexpected Curitiba</title>
+        <link>http://example.com/2015/01/21/Curitiba.html</link>
+        <guid isPermaLink="true">http://example.com/2015/01/21/Curitiba.html</guid>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam blanditiis, accusantium expedita aliquid dolores, similique velit eius quo explicabo alias non obcaecati odio quia, quisquam maiores natus. Dolorum dicta, vitae.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae quam provident mollitia hic unde nostrum maxime commodi tempore voluptate doloribus porro iste, libero corrupti ab voluptatum dolorum eaque labore ipsam.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More &lt;a href=&quot;https://www.flickr.com/photos/127774092@N02/sets/72157650498827456/&quot;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt; &lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 -0200</pubDate>
+      </item>
+    
+      <item>
+        <title>Rio, cidade maravilhosa</title>
+        <link>http://example.com/2015/01/18/Rio.html</link>
+        <guid isPermaLink="true">http://example.com/2015/01/18/Rio.html</guid>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam blanditiis, accusantium expedita aliquid dolores, similique velit eius quo explicabo alias non obcaecati odio quia, quisquam maiores natus. Dolorum dicta, vitae.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae quam provident mollitia hic unde nostrum maxime commodi tempore voluptate doloribus porro iste, libero corrupti ab voluptatum dolorum eaque labore ipsam.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More &lt;a href=&quot;https://www.flickr.com/photos/127774092@N02/sets/72157650498827456/&quot;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt; &lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Jan 2015 00:00:00 -0200</pubDate>
+      </item>
+    
+      <item>
         <title>Cordoba</title>
-        <link>http://example.com/2014/11/30/cordoba.html</link>
-        <guid isPermaLink="true">http://example.com/2014/11/30/cordoba.html</guid>
+        <link>http://example.com/2015/01/16/Cordoba.html</link>
+        <guid isPermaLink="true">http://example.com/2015/01/16/Cordoba.html</guid>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam blanditiis, accusantium expedita aliquid dolores, similique velit eius quo explicabo alias non obcaecati odio quia, quisquam maiores natus. Dolorum dicta, vitae.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/cordoba/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -40,7 +95,24 @@
 
 &lt;p&gt;More &lt;a href=&quot;https://www.flickr.com/photos/127774092@N02/sets/72157650498827456/&quot;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt; &lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Nov 2014 00:00:00 -0200</pubDate>
+        <pubDate>Fri, 16 Jan 2015 00:00:00 -0200</pubDate>
+      </item>
+    
+      <item>
+        <title>C'mon Malaga</title>
+        <link>http://example.com/2015/01/14/Malaga.html</link>
+        <guid isPermaLink="true">http://example.com/2015/01/14/Malaga.html</guid>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam blanditiis, accusantium expedita aliquid dolores, similique velit eius quo explicabo alias non obcaecati odio quia, quisquam maiores natus. Dolorum dicta, vitae.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae quam provident mollitia hic unde nostrum maxime commodi tempore voluptate doloribus porro iste, libero corrupti ab voluptatum dolorum eaque labore ipsam.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cordoba/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More &lt;a href=&quot;https://www.flickr.com/photos/127774092@N02/sets/72157650498827456/&quot;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt; &lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Jan 2015 00:00:00 -0200</pubDate>
       </item>
     
   </channel>

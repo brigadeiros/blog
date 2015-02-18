@@ -5,27 +5,29 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: OS Brigadeiros
+  title: Brigadeiros
   avatar: avatar.png
   gravatar: # email md5 hash
   description: "A website with blog posts, and pages." # used by search engines
   
   # Header and footer text
-  header_text: >
-     <p>This is a tumblelog, kinda like a blog but with short-form, mixed-media posts with stuff we like. Scroll down a bit to start reading, or a bit more to read more about us.</p>
+  short_text: >
+    Some of our thoughts on life, work & development
+  long_text: >
+    This is a place where we declare our love for <a href="http://en.wikipedia.org/wiki/Brigadeiro" target="blank">brigadeiros</a>, like a blog but with short-form, mixed-media posts with stuff we like.
      
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a>
+    Created with love by <a href="https://www.facebook.com/anton.kostiuchkov">Anton</a>
   
   # Icons
   rss: false
-  email_address: "antonkostiuchkov@gmail.com"
+  email_address:
   behance:
   bitbucket: 
   dribbble: 
-  facebook: 
-  flickr: "berserk-panda"
-  github: "rohanchandra/type-theme"
+  facebook:
+  flickr: 
+  github:
   google_plus: 
   instagram: 
   linkedin:  # full URL
@@ -35,13 +37,13 @@ theme:
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter:
   wordpress: 
-  youtube: 'berserk-panda'
+  youtube:
   
   # Scripts
   google_analytics: # tracking id, e.g. "UA-000000-01"
-  disqus_shortname: "antonkostiuchkov"
+  disqus_shortname: "brigadeiros"
   
   # Localization strings
   str_follow_on: "Follow on"

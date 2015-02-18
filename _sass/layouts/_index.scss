@@ -1,25 +1,49 @@
 // call out feature
 .call-out {
-  @extend %padding-regular;
+  padding: $padding-small 0;
   display: inline-block;
   width: 100%;
   background: none repeat scroll 0% 0% $header-desc-background-color;
   font-size: 1.2em;
   text-align: center;
   color: $header-desc-text-color;
+  margin-bottom: 1em;
+
+  h1 {
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color: $brand-color;
+    max-width: 77%;
+    margin: 0.67em auto;
+  }
+
+  p {
+    max-width: 60%;
+    margin: 1em auto;
+  }
+
+  p a:hover {
+    @extend %link-hover;
+  }
 }
-.call-out p:last-child {
-  margin-bottom: 0;
-}
+
 // post listing
 .posts {
+  max-width: 60%;
+  margin: 0 auto;
+
   .post-teaser {
-    @extend %padding-regular;
-    width: 100%;
-    margin-bottom: 0;
+    padding: $padding-small 0;
     display: inline-block;
     background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
+    
+    h2 {
+      text-transform: uppercase;
+      letter-spacing: 8px;
+      font-weight: 400;
+    }
+
     p a:hover {
       @extend %link-hover;
     }
@@ -28,6 +52,15 @@
     margin-top: 1em;
   }
 }
+
+.meta {
+  color: rgba($text-color, .5);
+  font-size: 0.9em;
+  letter-spacing: 0.1em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
 // pagination
 .pagination .button {
   margin: 0 1.5em;
